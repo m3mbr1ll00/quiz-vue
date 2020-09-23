@@ -1,0 +1,17 @@
+*{
+	font-family: 'Barlow', sans-serif;
+	font-size: 1.25rem;
+}
+
+.bg-principal {
+	background-color:#B00C25;
+}
+.text-principal {
+	color:#B00C25;
+}
+.text-negro {
+	color:#000;
+}
+.bg-secundario {
+	background-color:#F3CDE3;
+}
